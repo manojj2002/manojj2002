@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manojj2002
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Bachelors in engineering at B.M.S college of engineering,Bsc data science & programming at IIT Madras.
+- 🌱 I’m currently learning Bachelors in engineering (ISE) at B.M.S college of engineering,Bsc data science & programming at IIT Madras.
 
 - 💞️ I’m looking to collaborate ..
 - 📫 How to reach me : manoj.janasale@gmail.com
